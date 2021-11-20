@@ -1,0 +1,2 @@
+# seo
+Creating a script and adding to online traffic is easy and can be done easily using selenium, but if that just for fun as, we are restricted to one IP and most of them only use a single chrome driver, so it will be flagged soon by search engines, so I want to create a tool that will rotate proxies and can also use IPs from tor(free proxies) and using multiple virtual machines to run script using different drivers (chrome driver, edge driver, firefox, android etc. ) and using random clicks and nesting to mimic a response of a real person.
